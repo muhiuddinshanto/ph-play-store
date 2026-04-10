@@ -4,7 +4,7 @@
 
 HERO.IO is a modern React-based web application where users can explore and discover different productive applications. Users can view apps, see detailed information, and install/uninstall apps using a simple interface.
 
-🔗 **Live Link:** [https://your-live-link.com](https://your-live-link.com)
+🔗 **Live Link:** [https://ph-play-store-mohiuddin.netlify.app/](https://ph-play-store-mohiuddin.netlify.app/)
 🛠️ **Technology Stack:** React, React Router, Context API, Tailwind CSS, DaisyUI, React Icons, React Toastify, React Spinners
 
 ---
@@ -73,7 +73,7 @@ daisyui
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/hero-io.git
+git clone https://github.com/muhiuddinshanto/ph-play-store
 ```
 
 ### 2. Navigate to project folder
@@ -119,8 +119,8 @@ src/
 
 ## Relevant Links
 
-* 🌐 Live Site: [https://your-live-link.com](https://your-live-link.com)
-* 📦 GitHub Repository: [https://github.com/your-username/hero-io](https://github.com/your-username/hero-io)
+* 🌐 Live Site: [https://ph-play-store-mohiuddin.netlify.app/](https://ph-play-store-mohiuddin.netlify.app/)
+* 📦 GitHub Repository: [https://github.com/muhiuddinshanto/ph-play-store](https://github.com/muhiuddinshanto/ph-play-store)
 * 🎨 Assets: Local public/assets folder
 * 📊 Data Source: Local JSON file (/data.json)
 
@@ -129,4 +129,4 @@ src/
 ## Author
 
 **Mohiuddin**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: [https://github.com/muhiuddinshanto](https://github.com/muhiuddinshanto)
